@@ -1,0 +1,13 @@
+requests==2.32.3
+fastapi[standard]==0.115.6
+uvicorn==0.32.1
+langchain-text-splitters==0.3.5
+beautifulsoup4==4.12.3
+langchain~=0.3.16
+pydantic~=2.10.5
+typing_extensions~=4.12.2
+langchain_openai==0.3.2
+langgraph==0.2.68
+langchain-community==0.3.16
+langchain-experimental==0.3.4
+langchain-core==0.3.32
