@@ -45,6 +45,8 @@ _ = vector_store.add_documents(documents=all_splits)
 # Define prompt for question-answering
 prompt = hub.pull('rlm/rag-prompt')
 
+print(prompt)
+
 
 # Define state for application
 class State(TypedDict):

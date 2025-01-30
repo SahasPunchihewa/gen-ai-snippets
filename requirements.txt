@@ -12,3 +12,4 @@ langchain-community==0.3.16
 langchain-experimental==0.3.4
 langchain-core==0.3.32
 ipython==8.31.0
+langchain-postgres==0.0.12
