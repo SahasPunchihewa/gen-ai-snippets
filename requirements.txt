@@ -13,3 +13,5 @@ langchain-experimental==0.3.4
 langchain-core==0.3.32
 ipython==8.31.0
 langchain-postgres==0.0.12
+pydantic-settings==2.7.1
+httpx==0.28.1
