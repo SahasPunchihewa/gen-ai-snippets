@@ -1,0 +1,23 @@
+type: typing.Annotated[typing.Sequence[langchain_core.messages.base.BaseMessage], <function _add_messages_wrapper.<locals>._add_messages at 0x13078f420>]
+meta: (<function _add_messages_wrapper.<locals>._add_messages at 0x13078f420>,)
+
+
+==============
+
+
+type: typing.Annotated[bool, <class 'native.agents.state2.IsLastStepManager'>]
+meta: (<class 'native.agents.state2.IsLastStepManager'>,)
+
+
+type: typing.Annotated[typing.Sequence[langchain_core.messages.base.BaseMessage], <function _add_messages_wrapper.<locals>._add_messages at 0x13078f420>]
+meta: (<function _add_messages_wrapper.<locals>._add_messages at 0x13078f420>,)
+
+
+==============
+
+
+type: typing.Annotated[typing.Sequence[langchain_core.messages.base.BaseMessage], <function _add_messages_wrapper.<locals>._add_messages at 0x13078f420>]
+meta: (<function _add_messages_wrapper.<locals>._add_messages at 0x13078f420>,)
+
+
+==============
