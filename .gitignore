@@ -57,3 +57,5 @@ resources/vector/data
 
 #GCP Firebase private key
 /resources/scripts/key.json
+
+.cache
